@@ -1,2 +1,7 @@
-# demo-munoz-estudio-juridico
-Demo web para Muñoz Estudio Jurídico — diseñada por eterlab.
+# Muñoz Estudio Jurídico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
